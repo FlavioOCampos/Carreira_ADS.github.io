@@ -20,7 +20,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background: url('../backgroundpnj.png') repeat center center fixed, var(--bg-color);
+  background: url('backgroundpnj.png') repeat center center fixed, var(--bg-color);
   background-size: cover;
   color: var(--text-color);
   line-height: 1.6;
@@ -161,4 +161,5 @@ footer {
   table {
     font-size: 0.8rem;
   }
+
 }
